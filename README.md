@@ -1,6 +1,6 @@
 - 👋 Salut, je suis Guy-Max
 - 👀 Je suis intéréss par les nouveautés de demain
-- 🌱 I’m currently learning les langage s HTML,CSS, JAVA , PHP, C#, Linux
+- 🌱 I’m currently learning les langage s HTML,CSS, PYTHON , DOCKER, Linux
 - 💞️ I’m looking to collaborate on  un nouveau projet
 - 📫 How to reach me  : maxsambia@outlook.com
 
